@@ -13,5 +13,5 @@ elif BMI <= 34.9:
 elif BMI <= 39.9:
     print("You Need to loose your weight.")
 else:
-    print("You are Heavy weight so take care.")
+    print("You are Extermly weight so take care.")
 print(f"This is your BMI,{BMI}")
